@@ -1,4 +1,4 @@
-package com.mg;
+package com.RestAPI.Test;
 
 public class StepDefinitions {
 }

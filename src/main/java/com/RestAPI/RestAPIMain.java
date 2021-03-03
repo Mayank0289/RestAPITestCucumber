@@ -1,4 +1,4 @@
-package com.mg;
+package com.RestAPI;
 
 public class RestAPIMain {
 }
